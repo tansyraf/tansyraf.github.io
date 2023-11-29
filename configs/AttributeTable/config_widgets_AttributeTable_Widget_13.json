@@ -1,0 +1,296 @@
+{
+  "layerInfos": [
+    {
+      "name": "rest area",
+      "id": "b9d40c52ff414585a440532f3e94837f",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Persebaran_Rest_Area_pada_Jalur_Mudik_di_Provinsi_Jawa_Barat__WFL1/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "qc_id",
+            "alias": "qc_id",
+            "show": true
+          },
+          {
+            "name": "objectid",
+            "alias": "objectid",
+            "show": true
+          },
+          {
+            "name": "rest_area",
+            "alias": "rest_area",
+            "show": true
+          },
+          {
+            "name": "alamat",
+            "alias": "alamat",
+            "show": true
+          },
+          {
+            "name": "spbu",
+            "alias": "spbu",
+            "show": true
+          },
+          {
+            "name": "mosque",
+            "alias": "mosque",
+            "show": true
+          },
+          {
+            "name": "toilet",
+            "alias": "toilet",
+            "show": true
+          },
+          {
+            "name": "parking_fa",
+            "alias": "parking_fa",
+            "show": true
+          },
+          {
+            "name": "atm_center",
+            "alias": "atm_center",
+            "show": true
+          },
+          {
+            "name": "vechile_re",
+            "alias": "vechile_re",
+            "show": true
+          },
+          {
+            "name": "coffee_sho",
+            "alias": "coffee_sho",
+            "show": true
+          },
+          {
+            "name": "restaurant",
+            "alias": "restaurant",
+            "show": true
+          },
+          {
+            "name": "mini_marke",
+            "alias": "mini_marke",
+            "show": true
+          },
+          {
+            "name": "bus_contro",
+            "alias": "bus_contro",
+            "show": true
+          },
+          {
+            "name": "wadmkk",
+            "alias": "wadmkk",
+            "show": true
+          },
+          {
+            "name": "wadmkc19",
+            "alias": "wadmkc19",
+            "show": true
+          },
+          {
+            "name": "wadmkd19",
+            "alias": "wadmkd19",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "jalur mudik",
+      "id": "1e819b41ab454481a6eb3adc0853dd2b",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Persebaran_Rest_Area_pada_Jalur_Mudik_di_Provinsi_Jawa_Barat__WFL1/FeatureServer/1",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "qc_id",
+            "alias": "qc_id",
+            "show": true
+          },
+          {
+            "name": "objectid_1",
+            "alias": "objectid_1",
+            "show": true
+          },
+          {
+            "name": "nama_ruas",
+            "alias": "nama_ruas",
+            "show": true
+          },
+          {
+            "name": "panjang_km",
+            "alias": "panjang_km",
+            "show": true
+          },
+          {
+            "name": "status",
+            "alias": "status",
+            "show": true
+          },
+          {
+            "name": "nama_jalan",
+            "alias": "nama_jalan",
+            "show": true
+          },
+          {
+            "name": "angleb2022",
+            "alias": "angleb2022",
+            "show": true
+          },
+          {
+            "name": "sumberdata",
+            "alias": "sumberdata",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "jabar prov",
+      "id": "036e370dda8b48508f4e1830959b0785",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Persebaran_Rest_Area_pada_Jalur_Mudik_di_Provinsi_Jawa_Barat__WFL1/FeatureServer/2",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "qc_id",
+            "alias": "qc_id",
+            "show": true
+          },
+          {
+            "name": "objectid",
+            "alias": "objectid",
+            "show": true
+          },
+          {
+            "name": "objectid_1",
+            "alias": "objectid_1",
+            "show": true
+          },
+          {
+            "name": "namobj",
+            "alias": "namobj",
+            "show": true
+          },
+          {
+            "name": "remark",
+            "alias": "remark",
+            "show": true
+          },
+          {
+            "name": "kdpbps",
+            "alias": "kdpbps",
+            "show": true
+          },
+          {
+            "name": "wadmpr",
+            "alias": "wadmpr",
+            "show": true
+          },
+          {
+            "name": "jml_kab",
+            "alias": "jml_kab",
+            "show": true
+          },
+          {
+            "name": "jml_kota",
+            "alias": "jml_kota",
+            "show": true
+          },
+          {
+            "name": "jml_kec",
+            "alias": "jml_kec",
+            "show": true
+          },
+          {
+            "name": "jml_kel",
+            "alias": "jml_kel",
+            "show": true
+          },
+          {
+            "name": "jml_desa",
+            "alias": "jml_desa",
+            "show": true
+          },
+          {
+            "name": "luaswh",
+            "alias": "luaswh",
+            "show": true
+          },
+          {
+            "name": "jml_penddk",
+            "alias": "jml_penddk",
+            "show": true
+          },
+          {
+            "name": "sumber_dat",
+            "alias": "sumber_dat",
+            "show": true
+          },
+          {
+            "name": "shape_leng",
+            "alias": "shape_leng",
+            "show": true
+          },
+          {
+            "name": "shape_le_1",
+            "alias": "shape_le_1",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": true
+}

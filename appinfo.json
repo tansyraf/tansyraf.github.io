@@ -1,0 +1,7 @@
+{
+  "name": "Peta Persebaran Rest Area pada Jalur Mudik di Jawa Barat",
+  "description": "Data diperoleh dari ArcGIS REST Service Provinsi Jawa Barat. Data yang digunakan yaitu data rest area (titik), jalur mudik (garis), dan wilayah Provinsi Jawa Barat (area).",
+  "createdTime": 1697210764312,
+  "lastUpdated": 1697212568544,
+  "creator": "tania.asyrafina_ba21"
+}
